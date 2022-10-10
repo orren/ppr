@@ -19,3 +19,6 @@ alias watch_status="watch --color -d -n -1 -t 'git status --color=always'"
 
 # npm
 alias npr="npm run"
+
+# install
+# curl https://raw.githubusercontent.com/orren/ppr/master/.zshrc > ~/.zshrc && chmod +x ~/.zshrc && source ~/.zshrc
